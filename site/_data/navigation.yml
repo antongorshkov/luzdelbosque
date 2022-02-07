@@ -1,0 +1,7 @@
+logo_image: /images/luzdelbosquelogo.jpg
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: Pictures
+      url: /projects/
